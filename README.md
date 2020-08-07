@@ -24,9 +24,8 @@ BlueDragon is a Minecraft server network with almost all custom-coded plugins.
 - Working with a MySQL/MariaDB Database
 ---
 ### 📈 Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fluxcapacitor2&count_private=true&show_icons=true&hide=stars)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fluxcapacitor2&layout=compact)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=fluxcapacitor2&count_private=true&show_icons=true&hide=stars">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluxcapacitor2&layout=compact">
 <!--
 **FluxCapacitor2/FluxCapacitor2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
