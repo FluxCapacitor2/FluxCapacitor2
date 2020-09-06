@@ -22,6 +22,8 @@ BlueDragon is a Minecraft server network with almost all custom-coded plugins.
 ### 📚 Currently Learning:
 - Extending [Flarum](https://flarum.org) with Laravel and [Mithril.js](https://mithril.js.org/)
 - Working with a MySQL/MariaDB Database
+- CI/CD with GitHub Actions
+- Building websites with Laravel as a backend
 ---
 ### 📈 Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=fluxcapacitor2&count_private=true&show_icons=true&hide=stars">
