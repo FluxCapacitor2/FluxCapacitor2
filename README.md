@@ -27,10 +27,10 @@ BlueDragon is a Minecraft server network with almost all custom-coded plugins.
 ---
 ### Contributions
 #### 2020
-- [itzg/docker-bungeecord](https://github.com/itzg/docker-bungeecord/commits?author=FluxCapacitor2)
-- [plan-player-analytics/Plan](https://github.com/plan-player-analytics/Plan/commits?author=FluxCapacitor2)
-- [SkytAsul/Jukebox](https://github.com/SkytAsul/JukeBox/commits?author=FluxCapacitor2)
-- [HeilkeMinecraft/OpenNoteBlockStudio](https://github.com/HielkeMinecraft/OpenNoteBlockStudio/pull/172)
+- [itzg/docker-bungeecord](https://github.com/itzg/docker-bungeecord) ([commit](https://github.com/itzg/docker-bungeecord/commits?author=FluxCapacitor2))
+- [plan-player-analytics/Plan](https://github.com/plan-player-analytics/Plan) ([commit](https://github.com/plan-player-analytics/Plan/commits?author=FluxCapacitor2))
+- [SkytAsul/Jukebox](https://github.com/SkytAsul/JukeBox) ([commit](https://github.com/SkytAsul/JukeBox/commits?author=FluxCapacitor2))
+- [HielkeMinecraft/OpenNoteBlockStudio](https://github.com/HielkeMinecraft/OpenNoteBlockStudio) ([commit](https://github.com/HielkeMinecraft/OpenNoteBlockStudio/pull/172))
 ---
 ### 📈 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
