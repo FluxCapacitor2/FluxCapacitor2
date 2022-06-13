@@ -26,6 +26,7 @@ BlueDragon is a Minecraft server network with almost all custom-coded plugins.
 - Linux and Bash scripting
 - [Mixin](//github.com/SpongePowered/Mixin), a bytecode modification tool made by Sponge that builds on top of ASM.
 - Creating mods for multiple Minecraft versions using the [ReplayMod preprocessor](//github.com/ReplayMod/preprocessor) and [UniversalCraft](//github.com/EssentialGG/UniversalCraft)
+- Creating fast, reactive web applications with [SolidJS](https://www.solidjs.com/) ([first project](https://github.com/tylerswanson2/popusim))
 ---
 
 ### 📈 Stats
