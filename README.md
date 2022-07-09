@@ -1,32 +1,37 @@
 ## 👋 Hi there! 
 ### ℹ About Me
-I do some coding sometimes, trying to contribute to more open source projects in the future!
+I am a high school student that loves programming and open-source software.
 
-- 📕 High school student who loves programming in my spare time
-- 🎮 I love playing and coding for Minecraft
-<!--
-// Haven't worked on this in a while. Maybe one day when I learn more about k8s, Docker, and Minestom. I'm just more interested in client mods for now.
 ---
 
 ### 🛠 Currently Working On: 🐲 BlueDragon
-BlueDragon is a Minecraft server network with almost all custom-coded plugins.
-
-
+BlueDragon is a custom Minecraft server network with original and innovative minigames.
 
 ❓ [About](https://bluedragonmc.com/p/about) **·**
 👨‍💻 [Website](https://bluedragonmc.com) **·**
 💬 [Discord](https://discord.gg/3gvSPdW) **·**
 🐦 [Twitter](https://twitter.com/BDMCNetwork) **·**
 ⚙ [GitHub](https://github.com/BlueDragonMC)
--->
+
 ---
+
 ### 📚 Currently Learning:
-- Kotlin and making Gradle builds with the Kotlin DSL format
+- Creating custom Minecraft server experiences with [Minestom](https://minestom.net/)
+- Creating and optimizing services with [Docker](https://www.docker.com/)
 - CI/CD with GitHub Actions
 - Linux and Bash scripting
-- [Mixin](//github.com/SpongePowered/Mixin), a bytecode modification tool made by Sponge that builds on top of ASM.
-- Creating mods for multiple Minecraft versions using the [ReplayMod preprocessor](//github.com/ReplayMod/preprocessor) and [UniversalCraft](//github.com/EssentialGG/UniversalCraft)
 - Creating fast, reactive web applications with [SolidJS](https://www.solidjs.com/) ([first project](https://github.com/tylerswanson2/popusim))
+
+---
+
+### 💡 Experience
+- Kotlin/Java, with a focus on Minecraft client and server development
+- HTML/CSS/JS
+- [SolidJS](https://www.solidjs.com/) and [VueJS](https://vuejs.org/) JavaScript frameworks
+- Docker and Docker Compose
+- SQL databases and MongoDB
+- Simple machine learning models using [Keras](https://keras.io/), a wrapper for Tensorflow
+
 ---
 
 ### 📈 Stats
