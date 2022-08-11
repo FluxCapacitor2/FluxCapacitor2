@@ -18,6 +18,7 @@ BlueDragon is a custom Minecraft server network with original and innovative min
 ### 📚 Currently Learning:
 - Creating custom Minecraft server experiences with [Minestom](https://minestom.net/)
 - Creating and optimizing services with [Docker](https://www.docker.com/)
+- Efficiently managing and scaling services with [Kubernetes](https://k8s.io)
 - CI/CD with GitHub Actions
 - Linux and Bash scripting
 - Creating fast, reactive web applications with [SolidJS](https://www.solidjs.com/) ([first project](https://github.com/tylerswanson2/popusim))
@@ -29,6 +30,7 @@ BlueDragon is a custom Minecraft server network with original and innovative min
 - HTML/CSS/JS
 - [SolidJS](https://www.solidjs.com/) and [VueJS](https://vuejs.org/) JavaScript frameworks
 - Docker and Docker Compose
+- Kubernetes and [Agones](https://agones.dev), an open-source game server scaling and orchestration system build on top of Kubernetes
 - SQL databases and MongoDB
 - Simple machine learning models using [Keras](https://keras.io/), a wrapper for Tensorflow
 
