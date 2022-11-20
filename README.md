@@ -1,6 +1,6 @@
 ## 👋 Hi there! 
 ### ℹ About Me
-I am a high school student that loves programming and open-source software.
+I am a high school student and hobbyist programmer.
 
 ---
 
@@ -19,20 +19,19 @@ BlueDragon is a custom Minecraft server network with original and innovative min
 - Creating custom Minecraft server experiences with [Minestom](https://minestom.net/)
 - Creating and optimizing services with [Docker](https://www.docker.com/)
 - Efficiently managing and scaling services with [Kubernetes](https://k8s.io)
-- CI/CD with GitHub Actions
+- Writing and managing cloud-native CI/CD pipelines with [Tekton](https://tekton.dev)
 - Linux and Bash scripting
-- Creating fast, reactive web applications with [SolidJS](https://www.solidjs.com/) ([first project](https://github.com/tylerswanson2/popusim))
 
 ---
 
 ### 💡 Experience
 - Kotlin/Java, with a focus on Minecraft client and server development
+- Knowledge of the Minecraft protocol
 - HTML/CSS/JS
 - [SolidJS](https://www.solidjs.com/) and [VueJS](https://vuejs.org/) JavaScript frameworks
-- Docker and Docker Compose
+- Docker, Docker Compose, and OCI build systems like Buildah and Kaniko
 - Kubernetes and [Agones](https://agones.dev), an open-source game server scaling and orchestration system build on top of Kubernetes
 - SQL databases and MongoDB
-- Simple machine learning models using [Keras](https://keras.io/), a wrapper for Tensorflow
 
 ---
 
