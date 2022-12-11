@@ -43,9 +43,5 @@ Advent of Code is an advent calendar of daily programming challenges posted at 1
 ---
 
 ### 📈 Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture align="left">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=fluxcapacitor2&count_private=true&show_icons=true&hide=stars" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=fluxcapacitor2&count_private=true&show_icons=true&hide=stars&theme=dark" /> 
-  </picture>
-</a>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fluxcapacitor2&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fluxcapacitor2&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
