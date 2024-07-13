@@ -1,6 +1,6 @@
 ## 👋 Hi there! 
 ### ℹ About Me
-I am a high school student and hobbyist programmer.
+I am a CS student and hobbyist programmer.
 
 ---
 
