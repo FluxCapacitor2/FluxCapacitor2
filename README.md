@@ -16,7 +16,8 @@ BlueDragon is a custom Minecraft server network with original and innovative min
 
 ### 📚 Currently Learning:
 - Creating custom Minecraft server experiences with [Minestom](https://minestom.net/)
-- Making super fast fullstack web applications with [Next.js](https://nextjs.org/)
+- Writing web services with [Go](https://go.dev/)
+- SQLite
 
 ---
 
