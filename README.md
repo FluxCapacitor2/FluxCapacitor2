@@ -4,8 +4,6 @@ My name is Brendan, and I love solving complex problems. I am a Computer Science
 
 I'm also a volunteer full-stack web developer at [Pitch Labs](https://www.pitchlabs.org/), a small business education nonprofit. I manage their cloud infrastructure and maintain their website and internal dashboard, both of which are built with Next.js 14, TailwindCSS, and Strapi.
 
-I am currently looking for software engineering internship roles for Summer 2025. [Connect with me](https://www.linkedin.com/in/bdswanson/) on LinkedIn!
-
 ---
 
 ### 🛠 Currently Working On: 🐲 BlueDragon
