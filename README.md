@@ -1,8 +1,8 @@
 ## 👋 Hi there! 
 ### ℹ About Me
-My name is Brendan, and I love solving complex problems. I am a Computer Science student at North Carolina State University, and I have been doing computer programming as a hobby for over 6 years, building projects like [BlueDragon](https://github.com/BlueDragonMC/) (Kubernetes, Kotlin, Next.js, MongoDB), [Easysearch](https://github.com/FluxCapacitor2/easysearch/) (Go, SQLite), and a [capture-the-flag recruitment challenge](https://www.bswanson.dev/projects/ctf/) (Next.js, Docker, SQLite) for my high school's cybersecurity team.
+My name is Brendan, and I love solving complex problems. I am a Computer Science student at North Carolina State University, and I have been doing computer programming as a hobby for over 7 years, building projects like [BlueDragon](https://github.com/BlueDragonMC/) (Kubernetes, Kotlin, Next.js, MongoDB), [Easysearch](https://github.com/FluxCapacitor2/easysearch/) (Go, SQLite), and a [capture-the-flag recruitment challenge](https://www.bswanson.dev/projects/ctf/) (Next.js, Docker, SQLite) for my high school's cybersecurity team.
 
-I'm also a volunteer full-stack web developer at [Pitch Labs](https://www.pitchlabs.org/), a small business education nonprofit. I manage their cloud infrastructure and maintain their website and internal dashboard, both of which are built with Next.js 14, TailwindCSS, and Strapi.
+I'm also working part-time at Purdue's [Rosen Center for Advanced Computing](https://www.rcac.purdue.edu/) on [AnvilOps](https://anvilops.rcac.purdue.edu/), a platform-as-a-service that automates the build and deployment process needed to run apps on Kubernetes.
 
 ---
 
@@ -16,9 +16,8 @@ BlueDragon is a custom Minecraft server network with original and innovative min
 ---
 
 ### 📚 Currently Learning:
-- Creating custom Minecraft server experiences with [Minestom](https://minestom.net/)
-- Writing web services with [Go](https://go.dev/)
-- [SQLite](https://sqlite.org/) and its full-text search extension, [FTS5](https://sqlite.org/fts5.html)
+- The C programming language
+- Android app development with Kotlin and Jetpack Compose
 
 ---
 
